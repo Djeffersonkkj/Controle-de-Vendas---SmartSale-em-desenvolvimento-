@@ -1,4 +1,4 @@
-# SmartBiz (nome provisório)
+# SmartBiz (em desenvolvimento)
 
 O **SmartBiz** tem como principal objetivo ajudar comerciantes a gerenciarem melhor suas vendas. Este programa é 
 uma aplicação simples e funcional para gerenciar as vendas de uma loja. Ele permite registrar produtos, controlar
