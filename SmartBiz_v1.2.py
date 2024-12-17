@@ -73,7 +73,7 @@ while True:
                     print('--------------------LISTA--------------------\n')
                     for chave, dados in produtos.items():
                         print(f"NOME: {dados['nome']} ({dados['produto_id']}) | ESTOQUE: {dados['estoque']}x | VALOR DE VENDA: R${dados['valor_venda']:.2f} | \
-VENDAS: {dados['q_vendas']}   TOTAL: {dados['t_vendas']:.2f}")
+VENDAS: {dados['q_vendas']}   TOTAL: R${dados['t_vendas']:.2f}")
                         print('---------------------------------------------------------------------')
                             
             elif op == 4: #EDITAR
